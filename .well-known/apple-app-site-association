@@ -7,6 +7,14 @@
         "paths": [
           "/wishlist/*",
           "/wish/*"
+        ],
+        "components": [
+          {
+            "/": "/wishlist/*"
+          },
+          {
+            "/": "/wish/*"
+          }
         ]
       }
     ]
