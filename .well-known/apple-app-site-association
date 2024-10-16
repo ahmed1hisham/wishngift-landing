@@ -5,12 +5,19 @@
       {
         "appID": "NBDK947S85.com.binariolabs.wishngift",
         "paths": [
+          "*",
           "/wishlist/*",
           "/wish/*"
         ],
         "components": [
           {
             "/": "/wishlist/*"
+          },
+          {
+            "/": "/*"
+          },
+          {
+            "/": "*"
           },
           {
             "/": "/wish/*"
