@@ -1,0 +1,32 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NBDK947S85.com.binariolabs.wishngift",
+        "paths": [
+          "/wishlist/*",
+          "/wish/*"
+        ],
+        "components": [
+          {
+            "/": "/wishlist/*"
+          },
+          {
+            "/": "/wish/*"
+          }
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "NBDK947S85.com.binariolabs.wishngift"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NBDK947S85.com.binariolabs.wishngift"
+    ]
+  }
+}
